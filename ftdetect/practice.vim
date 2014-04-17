@@ -5,5 +5,4 @@
 " Credits: Based on the t4.vim ftdetect file by Guy Oliver
 " Last change: 2014 Appril 17
 
-au BufRead,BufNewFile *.t32 set filetype=practice
 au BufRead,BufNewFile *.cmm set filetype=practice
